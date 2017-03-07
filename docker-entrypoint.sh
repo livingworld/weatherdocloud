@@ -1,4 +1,4 @@
 #!/bin/bash
 
 
-python /app/querystart.py 80
+python /app/querystart.py --host 0.0.0.0
