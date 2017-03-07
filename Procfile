@@ -1,1 +1,0 @@
-web: python querystart.py 80
